@@ -1,2 +1,2 @@
 # learning-how-to
-Learning 
+Used in December 24 winter semester
